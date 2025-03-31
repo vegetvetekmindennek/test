@@ -4,11 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-<<<<<<< HEAD
-const CACHE_VERSION = '1743422016|30322766';
-=======
-const CACHE_VERSION = '1743160570|11953160868';
->>>>>>> 5d1b3ec8a0a1cce7940fe9a3797ea52376e94e56
+const CACHE_VERSION = '1743422706|720098182';
 /** @type {string} */
 const CACHE_PREFIX = 'feleves-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
